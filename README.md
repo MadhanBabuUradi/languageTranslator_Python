@@ -3,7 +3,11 @@
 # 🈂️ Language Translator - Text & Speech Based
 
 A user-friendly **desktop application** that allows you to **translate text or spoken words** between multiple languages using Python's `Tkinter`, `translate`, and `speech_recognition` libraries.
-
+- Tkinter (Python GUI)
+- translate (language translations)
+- speech_recognition (voice input)
+- pyttsx3 (text-to-speech)
+- pyperclip (clipboard access)
 ---
 
 ## 💡 Features
