@@ -1,1 +1,1 @@
-#LanguageTransulator
+#LanguageTranslator
