@@ -28,6 +28,9 @@ Ensure Python is installed on your system, then run:
 pip install translate
 pip install SpeechRecognition
 pip install pyaudio
+pip install pyttsx3
+pip install pyperclip
+
 ---
 ## 💡 : pyaudio may need special handling on Windows. If pip install pyaudio fails, try:
 
