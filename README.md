@@ -25,7 +25,7 @@ pip install translate
 pip install SpeechRecognition
 pip install pyaudio
 ---
-💡: pyaudio may need special handling on Windows. If pip install pyaudio fails, try:
+## 💡 : pyaudio may need special handling on Windows. If pip install pyaudio fails, try:
 
 bash
 Copy
