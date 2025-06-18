@@ -34,16 +34,12 @@ pip install pyperclip
 ---
 ## 💡 : pyaudio may need special handling on Windows. If pip install pyaudio fails, try:
 
-bash
-Copy
-Edit
+
 pip install pipwin
 pipwin install pyaudio
 
 ## 🚀 Running the App
-bash
-Copy
-Edit
+
 python translator.py
 
 🙌 Contributing
